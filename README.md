@@ -3,11 +3,11 @@
 
 ----------------------------------
 
-📁[program]   
-    ∟📁[payment]   
+📁program   
+    ∟📁payment    
     ∟📄restart   
 
-📁[koipa]   
+📁koipa   
     Manage : AI INNOVATION SQUARE   
     Course : BASIC   
 
