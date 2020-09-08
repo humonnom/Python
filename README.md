@@ -3,18 +3,18 @@
 
 ----------------------------------
 
-📁[program]\n
-    ∟📁[payment]
-    ∟📄restart
+📁[program]   
+    ∟📁[payment]   
+    ∟📄restart   
 
-📁[koipa]
-    Manage : AI INNOVATION SQUARE
-    Course : BASIC
+📁[koipa]   
+    Manage : AI INNOVATION SQUARE   
+    Course : BASIC   
 
-📄Pipfile
-📄Pipfile.lock
+📄Pipfile   
+📄Pipfile.lock   
 
-📄README.md 
+📄README.md    
 
 ----------------------------------
 
