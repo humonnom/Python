@@ -1,0 +1,9 @@
+#!/bin/bash
+echo "Start"
+
+python3 payment.py
+FILE_NAME=$(date '+%Y%m%d')
+echo "$FILE_NAME"
+mv payment.md pay_record/$FILE_NAME
+
+echo "Done"
