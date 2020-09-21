@@ -4,15 +4,15 @@
 ----------------------------------    
    
 📁coding_practice     
-    ∟📄programmers/level1/python3    
+	    ∟📄programmers/ level1/ python3    
 
 📁koipa   
-    Manage : AI INNOVATION SQUARE   
-    Course : BASIC  
+   	 	Manage : AI INNOVATION SQUARE   
+   		Course : BASIC  
     
 📁program   
-    ∟📁payment    
-    ∟📄restart   
+    	∟📁payment    
+   		∟📄restart   
 
 📄Pipfile   
 📄Pipfile.lock   
