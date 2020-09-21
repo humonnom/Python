@@ -1,9 +1,10 @@
 #python
 ## 🐍 Python 
 
-----------------------------------
-📁coding_practice 
-    ∟📄programmers/level1/python3
+----------------------------------    
+   
+📁coding_practice     
+    ∟📄programmers/level1/python3    
 
 📁koipa   
     Manage : AI INNOVATION SQUARE   
