@@ -2,14 +2,16 @@
 ## 🐍 Python 
 
 ----------------------------------
-
-📁program   
-    ∟📁payment    
-    ∟📄restart   
+📁coding_practice 
+    ∟📄programmers/level1/python3
 
 📁koipa   
     Manage : AI INNOVATION SQUARE   
-    Course : BASIC   
+    Course : BASIC  
+    
+📁program   
+    ∟📁payment    
+    ∟📄restart   
 
 📄Pipfile   
 📄Pipfile.lock   
